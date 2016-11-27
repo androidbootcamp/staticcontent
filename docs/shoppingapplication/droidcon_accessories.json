@@ -1,0 +1,54 @@
+[
+       {
+        "product_id":1,
+        "title": "Snoogg Peacock Real Case Cover For Google Nexus 5",
+        "description": "Slim, light ,Sturdy & stylish polycarbonate case protects from scratches, dirt marks , spills etc . The added sides on the cover offers screen protection on your phone. The case is moulded to fit perfectly on your smartphone
+State of the Art, All-Side printed Images. Easy Snap on / Snap off .Proudly Made In India. Precision moulds on this case leaves all buttons, ports, speakers and microphones completely open to ensure maximum usage capability",
+        "image_url": "http://xplorationstudio.com/sample_images/nexus_5_case.jpg",
+        "isNew":true,
+        "isPopular":true,
+        "upcoming_deal":51,
+        "price":899
+    },
+    {
+        "product_id":2,
+        "title": "BlueRigger Digital Optical Audio Toslink Cable (10 Feet / 3 Meters)",
+        "description": "Enables easy installation of audio components to your audio or home theater system. Digital optical cable constructed with durable black PVC outer layer and corrosion-resistant gold-plated connectors for optimal signal transfer
+Precision-polished optical connectors allow maximum signal transfer accuracy. Specially optimized optical fiber for higher fidelity
+Compatible with S/PDIF, ADAT's, Dolby Digital, & DTS. Limited Lifetime Warranty",
+        "image_url": "http://xplorationstudio.com/sample_images/bluerigger.jpg",
+        "isNew":true,
+        "price":330
+    },
+    {
+        "product_id":3,
+        "title": "HP Entry Level Backpack (Black)",
+        "description": "Presenting the all new HP Runner 15 inch laptop backpack (Black). The all time solution to laptop portability solution for all laptop owners on the go, under budget. This sleek, black bag is designed to attend to your laptop portability woes. It has 2 compartments in it so that other than just storing your laptop, you can easily carry a few snacks, the laptop charger cable, a bottle of water or perhaps even a good book to read as well. The bag can easily support the dimensions and weight of a standard 15.6 inch laptop without any glitches. It is made from strong materials and is designed for rugged use.",
+        "image_url": "http://xplorationstudio.com/sample_images/HP.jpg",
+        "price":1100,
+        "upcoming_deal": 64
+    },
+    {
+        "product_id":4,
+        "title": "SanDisk Cruzer Blade SDCZ50-016G-I35 16 GB USB 2.0 Pen Drive",
+        "description": "The SanDisk 16GB Cruzer Blade USB Flash Drive from SanDisk is a compact, portable USB flash drive. It allows you to carry and transfer files on the go like photos, videos or music files to share with family and friends. Easily share files between computers with this convenient USB flash drive.",
+        "image_url": "http://xplorationstudio.com/sample_images/sandisk.jpg",
+        "price":287,
+        "isPopular":true
+    },
+    {
+        "product_id":5,
+        "title": "Samsung Evo 16GB 10 micro SDHC Card",
+        "description": "Reading speed upto 48MB/s. Writing speed upto upto 10MB/s. Heat proof, X-Ray proof, magnet proof and water proof. 10 years warranty on product from the date of purchase",
+        "image_url": "http://xplorationstudio.com/sample_images/evo.jpg",
+        "price":207
+    },
+    {
+        "product_id":6,
+        "title": "Philips SHQ4300OR/00 ActionFit Sports In-Ear Headphones (Orange)",
+        "description": "Performance booster. Move freely. Work out tougher. Simply stay connected",
+        "image_url": "http://xplorationstudio.com/sample_images/philips_headphones.jpg",
+        "price":1040,
+        "upcoming_deal":20
+    }
+]

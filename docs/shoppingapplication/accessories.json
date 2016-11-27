@@ -1,0 +1,12 @@
+[
+       {
+        "product_id":1,
+        "title": "SONY SMARTWATCH (BLACK)",
+        "description": "Taking the popular and coveted touch technology on wristwatches to a whole new level in terms of touch and tech, is this awe-inspiring smartwatch from Sony.",
+        "image_url": "http://xplorationstudio.com/sample_images/watch_2.jpeg",
+        "image_thumbnail_url": "http://xplorationstudio.com/sample_images/watch_2_thumbnail.jpeg",
+        "isNew":true,
+        "upcoming_deal":25,
+        "price":2500
+    }
+]

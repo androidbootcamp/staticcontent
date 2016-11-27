@@ -1,0 +1,55 @@
+[
+       {
+        "product_id":7,
+        "title": "Lenovo 80E502Q8IH Black Laptop",
+        "description": "Core 2 Duo 2.9 GHZ Processor, Intel CH Motherboard, 2GB DDR3 RAM, 250GB HDD, No DVD RW, 16 Monitor, USB Keyboard & Mouse",
+        "image_url": "http://xplorationstudio.com/sample_images/lenovo.jpg",
+        "isNew":true,
+        "upcoming_deal":22,
+        "price":32190
+    },
+    {
+        "product_id":8,
+        "title": "Philips MMS4040F 2.1 Multimedia Speaker",
+        "description": "Philips brings you a range of speaker systems with imposing looks and powerful sound that will make you speechless. The Philips MMS4040F 2.1 multimedia speaker system is a specimen of fine acoustic engineering and brilliant design. This black speaker system includes two satellite speakers and one subwoofer. All the speakers of this system feature a wooden cabinet that helps produce deep bass effect. If you love watching movies and videos or listening music on your PC or multimedia devices then the Philips multimedia speakers are ideal for you as they can be easily connected with them in no time. You can not only enjoy your favourite playlist with more pumping music and deeper bass with the 2.1 channel speakers but also customise the audio output. This is possible with the help of equalizer function available in the Philips speakers. The versatile and user-friendly multimedia speaker system can efficiently play multiple devices and supports SD card, USB, aux and MP3 players. In addition, the Philips 2.1 speakers also 
+        support FM tuner allowing you to play your favourite radio channels so that you can enjoy radio talk shows, music as well as latest news. Equipped with sophisticated speaker technology, the Philips USB speakers come with 4000W peak music power output (PMPO) to deliver vivid and power-packed audio output. Bring home these 2.1 multimedia speakers and get thrilled by the virtual surround sound processing. The device comes with wireless remote for ease in playing it from a distance. Furthermore, you can also have a hassle-free navigation through menu with the help of the alpha numeric display. After all, user-friendly controls for tuning to music, film or video game soundtracks brings difference to your home entertainment experience.",
+        "image_url": "http://xplorationstudio.com/sample_images/home_theater.jpg",
+        "price":2850
+    },
+    {
+        "product_id":9,
+        "title": "FEYE® Portable Wireless Stereo",
+        "description": "Portable wireless Bluetooth speaker,easy to carry. Bluetooth 2.1 technology,fast and comfortable experience. The Bluetooth Portable Stereo Speaker Sound System delivers exceptional sound quality for your Cellphone,Tablet or PC. With outstanding sound,it delivers a rich audio experience for your home,office or on the road. Bluetooth music controlling function and hand-free talking,you can enjoy wireless music and talking anywhere,anytime. Support NFC(Near Field Communication):NFC softly touch connection,lightly tough,fastly connection with your phones. Convenient Line-in function:The bluetooth speaker can be connected to computer and other devices through 3.5mm audio cable.",
+        "image_url": "http://xplorationstudio.com/sample_images/feye.jpg",
+        "price":1501,
+        "upcoming_deal": 33,
+        "isPopular":true
+    },
+    {
+        "product_id":10,
+        "title": "Samsung GALAXY Note II N7100 [Verizon AT&T Sprint T-Mobile US Cellular] Rubberized Hard Shell Case (Purple)",
+        "description": "Made of thin plastic they simply snap on over your phone s body without requiring any tools. Because the phone can be used with the case on the phone is protected at all times from day to day scratches and dings. You can easily change the color of your phone or decorate it with many different designs. Compatible with Samsung Galaxy Note 2. Comes in two plastic pieces that easily clip on the back and front of phone. Protects your phone from bumps and scratches. Precise Cutouts Give Full Access To All Ports Power Button Cameras Mics. Comes in retail packaging Specification Binding",
+        "image_url": "http://xplorationstudio.com/sample_images/galaxy.jpg",
+        "price":1889,
+        "isPopular":true
+    },
+    {
+        "product_id":11,
+        "title": "Bajaj DX 7 1000-Watt Dry Iron",
+        "description": "The Bajaj DX 7 dry iron is a reliable product from Bajaj for your home and is a nice addition to your home appliances. Along with being efficient in its tasks like removing creases off your clothes and making them look sparkling new, this Bajaj dry iron is also lightweight. The soleplate of the iron has a non-stick coating to protect your clothes from accidental burns, allowing you to comfortably iron them. Along with being safe to use, this Bajaj DX 7 iron is also a versatile appliance for your home.",
+        "image_url": "http://xplorationstudio.com/sample_images/bajaj_iron.jpg",
+        "price":599,
+        "upcoming_deal":37,
+        "isNew":true,
+        "isPopular":true
+    },
+    {
+        "product_id":12,
+        "title": "Micromax 32T7260HD HD Ready LED TV",
+        "description": "81.2 centimeters LED 1366 x 768. Connectivity - Input : HDMI*1, USB*1, RF *1, AV In *1, Output : AV output * 1",
+        "image_url": "http://xplorationstudio.com/sample_images/lcd.jpg",
+        "price":13990,
+        "isNew":true,
+        "isPopular":true
+    }
+]
